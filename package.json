@@ -1,0 +1,26 @@
+{
+  "name": "tknr.com",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://tknr@github.com/tknr/tknr.com.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tknr/tknr.com/issues"
+  },
+  "homepage": "https://github.com/tknr/tknr.com#readme",
+  "dependencies": {
+    "clean-css-cli": "^5.2.0",
+    "cwebp-cli": "0.0.3",
+    "html-minifier": "^4.0.0",
+    "npm-check-updates": "^11.1.8",
+    "uglify-js": "^3.12.8"
+  }
+}
